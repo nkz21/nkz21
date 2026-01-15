@@ -36,9 +36,9 @@ Passionné par l'infrastructure automation, le web scraping à grande échelle, 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkz21&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkz21&layout=compact&theme=dark&hide_border=true)
 
 ### 🎯 Centres d'intérêt
 
