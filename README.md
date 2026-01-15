@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Nassim KNIS
+# 👋 Salut, je suis Nassim K
 
 ## 🚀 DevOps & Full-Stack Developer Autodidacte
 
